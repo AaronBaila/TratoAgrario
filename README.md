@@ -1,3 +1,6 @@
+#Importante:
+No se muestra el código por motivos de seguridad, para ver el codigo completo contactar con: **aaron_baila@outlook.com**
+<br>
 # Explicación del proyecto:
 Es un proyecto CRUD realizado con la pila MEAN (MongoDB, ExpressJS, AngularJS, NodeJS).
 <br>
